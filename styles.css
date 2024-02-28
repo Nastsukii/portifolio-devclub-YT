@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Oswald", sans-serif;
+}
+
+.main{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(5, 19, 0, 1);
+}
+
+h2{
+    font-family: "Anta", sans-serif;
+}
